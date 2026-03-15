@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+venv/
+nutri.db
+__pycache__/
+*.pyc
+secret.txt
